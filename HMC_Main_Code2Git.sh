@@ -1,4 +1,4 @@
-#!/bin/bash -e
+#!/bin/bash 
 
 #------------------------------------------------------------
 # Git initialization
@@ -9,6 +9,8 @@
 
 # In GitHub create a new project:
 # https://github.com/user/projectname
+
+# >> git remote add origin https://github.com/user/projectname
 #------------------------------------------------------------
 
 #------------------------------------------------------------
